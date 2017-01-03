@@ -1,2 +1,2 @@
-username = 'broham'
-password = 'some weak password...'
+notImportant = 'do not care'
+alsoNotImportant = 'nothing to see here...'
